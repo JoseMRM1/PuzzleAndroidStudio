@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnJugar">SPIELEN</string>
+    <string name="btnPuntos">SCORE</string>
+    <string name="btnPuntosCloud">PUNKTEWOLKE</string>
+    <string name="btnAyuda">HILFE</string>
+    <string name="btnMusic">MUSIK</string>
+    <string name="btnSalir">EXIT</string>
+    <string name="btnCamara">KAMERA ÖFFNEN</string>
+    <string name="btnGaleria">GALERIE</string>
+    <string name="btnSelectCloudImages">CLOUD</string>
+    <string name="btnNormal">NORMAL</string>
+    <string name="btnGuardar">PUNKTESTAND</string>
+    <string name="SelectMode">SPIELMODUS AUSWÄHLEN</string>
+    <string name="textFelicitacion">HERZLICHEN GLÜCKWUNSCH!  SIE HABEN DAS RÄTSEL GELÖST!</string>
+    <string name="NoPuntuacion">KEIN ERGEBNIS VERFÜGBAR.</string>
+    <string name="btnReinciciarMusic">MUSIK ZURÜCKSTELLEN</string>
+    <string name="btnCambiarMusic">MUSIK VERÄNDERN</string>
+    <string name="ToastMusicaReanudada">MUSIK NEU GESTARTET</string>
+    <string name="ToastMusicaPausada">MUSIK UNTERBROCHEN</string>
+    <string name="SI">Ja</string>
+    <string name="NO">Keine</string>
+    <string name="SeguroCerrar">Sind Sie sicher, dass Sie die Anwendung schließen wollen?</string>
+    <string name="Timer">Zeitschaltuhr</string>
+    <string name="SeguroNoGuardar">Bist du sicher, dass du gehen willst? Der Fortschritt wird nicht gerettet</string>
+    <string name="SignOut">AUSZEICHNEN</string>
+    <string name="SeguroPulsarGuardar">Sind Sie sicher, dass Sie gehen wollen? Der Fortschritt wird nicht gespeichert, bitte drücken Sie die Taste Speichern.</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Abbrechen</string>
+    <string name="NombreJugador">Name des Spielers</string>
+    <string name="Permisos">Für den Zugriff auf die Kamera sind Kamera- und Speicherberechtigungen erforderlich.</string>
+    <string name="SeleccionImagenenes">Bilder auswählen</string>
+    <string name="Fotografia">Fotografia tomada correctamente</string>
+</resources>

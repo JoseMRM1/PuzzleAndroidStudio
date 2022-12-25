@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">PuzzleDroid_java</string>
+    <string name="btnJugar">PLAY</string>
+    <string name="btnPuntos">LOCAL SCORE</string>
+    <string name="btnPuntosCloud">CLOUD SCORE</string>
+    <string name="btnAyuda">HELP</string>
+    <string name="btnMusic">MUSIC</string>
+    <string name="btnSalir">EXIT</string>
+    <string name="btnCamara">OPEN CAMERA</string>
+    <string name="btnGaleria">GALLERY</string>
+    <string name="btnSelectCloudImages">CLOUD</string>
+    <string name="btnNormal">NORMAL</string>
+    <string name="btnGuardar">SAVE SCORE</string>
+    <string name="SelectMode">SELECT GAME MODE</string>
+    <string name="textFelicitacion">CONGRATULATIONS!\n YOU HAVE COMPLETED THE PUZZLE!</string>
+    <string name="NoPuntuacion">NO SCORE AVAILABLE.</string>
+    <string name="btnReinciciarMusic">RESET MUSIC</string>
+    <string name="btnCambiarMusic">CHANGE MUSIC</string>
+    <string name="ToastMusicaReanudada">MUSIC RESTARTED</string>
+    <string name="ToastMusicaPausada">MUSIC PAUSED</string>
+    <string name="SeguroCerrar">Are you sure you want to close the application?</string>
+    <string name="SeguroNoGuardar">Are you sure you want to leave? Progress will not be saved.</string>
+    <string name="SeguroPulsarGuardar">Are you sure you want to leave? Progress will not be saved, please press Save button.</string>
+    <string name="SignOut">SIGN OUT</string>
+    <string name="SI">Yes</string>
+    <string name="NO">No</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Timer">Timer</string>
+    <string name="NombreJugador">Player\'s name</string>
+    <string name="Permisos">Camera and storage permissions are required to access the camera.</string>
+    <string name="SeleccionImagenenes">Select images.</string>
+    <string name="Fotografia">Photo taken correctly</string>
+
+
+
+
+
+    <string name="action_settings" translatable="false">actionSettings</string>
+    <string name="channel_name" translatable="false">PuzzleDroid</string>
+    <string name="channel_description" translatable="false">Canal de notificaciones de PuzzleDroid.</string>
+    <string name="imgMain" translatable="false">Logo</string>
+    <string name="imgBravo" translatable="false">Bravo</string>
+    <string name="confinado" translatable="false">Confinado</string>
+    <string name="imageBtn" translatable="false">Musica</string>
+
+</resources>

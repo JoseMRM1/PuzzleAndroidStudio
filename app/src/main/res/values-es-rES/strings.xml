@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnJugar">JUGAR</string>
+    <string name="btnPuntos">PUNTUACION</string>
+    <string name="btnPuntosCloud">PUNTUACION NUBE</string>
+    <string name="btnAyuda">AYUDA</string>
+    <string name="btnMusic">MUSICA</string>
+    <string name="btnSalir">SALIR</string>
+    <string name="btnCamara">ABRIR CAMARA</string>
+    <string name="btnGaleria">GALERIA</string>
+    <string name="btnSelectCloudImages">NUBE</string>
+    <string name="btnNormal">NORMAL</string>
+    <string name="btnGuardar">GUARDAR PUNTUACION</string>
+    <string name="SelectMode">SELECCION DE MODO</string>
+    <string name="textFelicitacion">FELICIDADES, HAS COMPLETADO EL PUZZLE!</string>
+    <string name="NoPuntuacion">NO HAY PUNTUACIONES DISPONIBLES.</string>
+    <string name="btnReinciciarMusic">REINICIAR MUSICA</string>
+    <string name="btnCambiarMusic">CAMBIAR MUSICA</string>
+    <string name="ToastMusicaReanudada">MUSICA REANUDADA</string>
+    <string name="ToastMusicaPausada">MUSICA PAUSADA</string>
+    <string name="SI">Si</string>
+    <string name="NO">No</string>
+    <string name="SeguroCerrar">¿Seguro que quieres cerrar la aplicación?</string>
+    <string name="Timer">Tiempo</string>
+    <string name="SeguroNoGuardar">¿Seguro que quieres salir? No se guardará el progreso</string>
+    <string name="SignOut">CERRAR SESION</string>
+    <string name="NombreJugador">Nombre del jugador</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="SeguroPulsarGuardar">¿Seguro que quieres salir? Para guardar el progreso use el botón GUARDAR</string>
+    <string name="Permisos">Para acceder a la cámara se requieren permisos de cámara y almacenamiento</string>
+    <string name="SeleccionImagenenes">Selecciona las imágenes</string>
+    <string name="Fotografia">Richtig fotografiert</string>
+</resources>
